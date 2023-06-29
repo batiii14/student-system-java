@@ -3,9 +3,13 @@
 This project simulates Add,Delete,Update,List,Backup and Restore operations for the followings:
 
 -Student
+
 -Course
+
 -Attendance
+
 -Grade
+
 -Department
 
 ## Contact
